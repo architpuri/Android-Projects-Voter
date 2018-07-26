@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Voter</string>
+    //Homepage
+    <string name="aadhar_no">Aadhar No.</string>
+    <string name="area_code">Area Code</string>
+    <string name="phone_no">Mobile No.</string>
+    <string name="vote_btn">VOTE</string>
+    //Voting_Screen
+    <string name="bjp">Bhartiya Janta Party</string>
+    <string name="cng">Congress</string>
+    <string name="aap">Aam Aadmi Party</string>
+    <string name="sad">Shromani Akali Dal</string>
+    //final_screen
+    <string name="show_results">Show Results</string>
+    <string name="result_txtview">Result Here</string>
+</resources>
